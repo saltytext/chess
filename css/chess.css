@@ -1,0 +1,8 @@
+#board{
+    z-index:1;
+	position:absolute;
+}
+#pieces{
+    z-index:2;
+	position:absolute;
+}
