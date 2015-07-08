@@ -1,8 +1,10 @@
 #board{
     z-index:1;
 	position:absolute;
+	pointer-events: none;
 }
 #pieces{
     z-index:2;
 	position:absolute;
+	pointer-events: none;
 }
